@@ -1,4 +1,4 @@
-![Programa de Fidelidade](https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png)
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="30" alt="Programa de Fidelidade"/>
 
 # Programa de Fidelidade para Supermercado
 
