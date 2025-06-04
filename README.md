@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="30" alt="Programa de Fidelidade"/>
-
-# Programa de Fidelidade para Supermercado
+# Programa de Fidelidade para Supermercado <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="60" alt="Programa de Fidelidade"/>
 
 Este projeto é um MVP de um sistema de fidelidade para um supermercado de médio porte.  
 O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábitos de compra.
