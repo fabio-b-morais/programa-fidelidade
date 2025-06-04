@@ -29,25 +29,22 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 - Java 17
 - Maven
 
-Acesse a documentação da API via Swagger em:
-http://localhost:8080/swagger-ui.html
+## Acesse a documentação da API via Swagger em:
+- http://localhost:8080/swagger-ui.html
 
-🧪 Testes
-Para executar todos os testes:
+## 🧪 Testes
+ - Para executar todos os testes:
+   bash
+   Copy code
+   ./mvnw test
 
-bash
-Copy code
-./mvnw test
-📂 Estrutura do projeto
-src/main/java/br/com/supermercado/fidelidade/aplicacao: Casos de uso (Application Layer)
+## 📂 Estrutura do projeto
+ - src/main/java/br/com/supermercado/fidelidade/aplicacao: Casos de uso (Application Layer) projeto
+ - src/main/java/br/com/supermercado/fidelidade/dominio: Entidades e regras de negócio (Domain Layer) projeto
+ - src/main/java/br/com/supermercado/fidelidade/infra: Repositórios, adaptadores e integrações (Infra Layer) projeto
+ - src/main/java/br/com/supermercado/fidelidade/interfaces: Controllers e APIs REST (Interface Layer)
 
-src/main/java/br/com/supermercado/fidelidade/dominio: Entidades e regras de negócio (Domain Layer)
-
-src/main/java/br/com/supermercado/fidelidade/infra: Repositórios, adaptadores e integrações (Infra Layer)
-
-src/main/java/br/com/supermercado/fidelidade/interfaces: Controllers e APIs REST (Interface Layer)
-
-👤 Autor
+## 👤 Autor
 Fábio Borsato Morais
 LinkedIn | Email
 
