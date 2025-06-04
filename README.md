@@ -30,7 +30,9 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 - Maven
 
 ## Acesse a documentação da API via Swagger em:
-- http://localhost:8080/swagger-ui.html
+- http://localhost:8080/swagger-ui/index.html#/
+- usuario: username
+- senha: password
 
 ## 🧪 Testes
  - Para executar todos os testes:
