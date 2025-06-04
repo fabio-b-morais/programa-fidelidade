@@ -15,18 +15,17 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 
 - **Java 17**
 - **Spring Boot**
-- **PostgreSQL**
+- **MySql**
 - **Clean Architecture + DDD**
 - **Swagger**
-- **Docker e Docker Compose**
+- **Docker**
 - **Monitoramento com Prometheus e Grafana**
-- **Integração com Kafka (opcional)**
 
 ## 🚀 Como executar localmente
 
 ### Pré-requisitos
 
-- Docker + Docker Compose
+- Docker
 - Java 17
 - Maven
 
