@@ -1,4 +1,6 @@
-# Programa de Fidelidade para Supermercado <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="60" alt="Programa de Fidelidade"/>
+<img src="https://img.favpng.com/12/5/21/shopping-cart-blue-shopping-cart-icon-representation-vmDn1dVe_t.jpg" width="100" alt="Programa de Fidelidade"/>
+
+# Programa de Fidelidade para Supermercado
 
 Este projeto é um MVP de um sistema de fidelidade para um supermercado de médio porte.  
 O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábitos de compra.
