@@ -21,7 +21,6 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 - **Docker**
 - **Monitoramento com Prometheus e Grafana**
 
-## 🚀 Como executar localmente
 
 ### Pré-requisitos
 
@@ -107,6 +106,9 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 
 ## 👤 Autor
 Fábio Borsato Morais
+
+
+## 🚀 Como executar localmente
 
 ### Comandos
 
