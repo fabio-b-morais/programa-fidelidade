@@ -105,6 +105,9 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 - Recomendado isolar banco e APIs em VPC privada com autenticação e controle de acesso.
 
 
+## 👤 Autor
+Fábio Borsato Morais
+
 
 ## 🚀 Como executar localmente
 
@@ -118,6 +121,5 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
    ./mvnw spring-boot:run
 
 
-## 👤 Autor
-Fábio Borsato Morais
+
 
