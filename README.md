@@ -39,9 +39,9 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
    ./mvnw test
 
 ## 📂 Estrutura do projeto
- - src/main/java/br/com/supermercado/fidelidade/aplicacao: Casos de uso (Application Layer) projeto
- - src/main/java/br/com/supermercado/fidelidade/dominio: Entidades e regras de negócio (Domain Layer) projeto
- - src/main/java/br/com/supermercado/fidelidade/infra: Repositórios, adaptadores e integrações (Infra Layer) projeto
+ - src/main/java/br/com/supermercado/fidelidade/aplicacao: Casos de uso (Application Layer)
+ - src/main/java/br/com/supermercado/fidelidade/dominio: Entidades e regras de negócio (Domain Layer)
+ - src/main/java/br/com/supermercado/fidelidade/infra: Repositórios, adaptadores e integrações (Infra Layer)
  - src/main/java/br/com/supermercado/fidelidade/interfaces: Controllers e APIs REST (Interface Layer)
 
 ## 👤 Autor
