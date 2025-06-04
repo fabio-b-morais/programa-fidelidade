@@ -36,9 +36,10 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 
 ## 🧪 Testes
  - Para executar todos os testes:
-   bash 
+   ```markdown 
    Copy code
    ./mvnw test
+   ---
 
 ## 📂 Estrutura do projeto
  - src/main/java/br/com/supermercado/fidelidade/aplicacao: Casos de uso (Application Layer)
