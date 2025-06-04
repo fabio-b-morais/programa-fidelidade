@@ -46,6 +46,9 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
  - src/main/java/br/com/supermercado/fidelidade/infra: Repositórios, adaptadores e integrações (Infra Layer)
  - src/main/java/br/com/supermercado/fidelidade/interfaces: Controllers e APIs REST (Interface Layer)
 
+## Visão macro da arquitetura do sistema
+![Diagrama de Arquitetura](imagens/visao_macro.png)
+
 ## 👤 Autor
 Fábio Borsato Morais
 
