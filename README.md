@@ -33,7 +33,9 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 - http://localhost:8080/swagger-ui/index.html#/
 - usuario: username
 - senha: password
+  
 ![Swagger](imagens/swagger.png)
+
 
 ## 🧪 Testes
  - Para executar todos os testes:
@@ -79,7 +81,7 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
   - Alta integração com ferramentas de CI/CD e segurança reforçada.
 
 
-## ✅ Resumo de Estratégias Técnicas
+## ✅ Estratégias Técnicas
 
 ### 📌 Qualidade de Código e Testes
 
