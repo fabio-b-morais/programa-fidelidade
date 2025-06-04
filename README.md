@@ -34,7 +34,7 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 
 ## 🧪 Testes
  - Para executar todos os testes:
-   bash
+   bash 
    Copy code
    ./mvnw test
 
@@ -46,7 +46,6 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 
 ## 👤 Autor
 Fábio Borsato Morais
-LinkedIn | Email
 
 ### Comandos
 
