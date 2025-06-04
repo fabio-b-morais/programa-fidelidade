@@ -1,4 +1,4 @@
-<img src="https://img.favpng.com/12/5/21/shopping-cart-blue-shopping-cart-icon-representation-vmDn1dVe_t.jpg" width="100" alt="Programa de Fidelidade"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="100" alt="Programa de Fidelidade"/>
 
 # Programa de Fidelidade para Supermercado
 
