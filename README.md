@@ -36,7 +36,7 @@ O objetivo é aumentar a retenção de clientes e coletar dados sobre seus hábi
 
 ## 🧪 Testes
  - Para executar todos os testes:
-```bash
+   ```bash
    # Executar comando abaixo localmente
    ./mvnw test
 
